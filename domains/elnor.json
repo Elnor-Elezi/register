@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "Elnor-Elezi"
-"email": "elnorelezi1@gmail.com"
-    },
-    "records": {
-        "CNAME": "elnor-elezi.github.io"
-    }
+  "owner": {
+    "username": "Elnor-Elezi",
+    "email": "elnorelezi1@gmail.com"
+  },
+  "records": {
+    "CNAME": "elnor-elezi.github.io"
+  }
 }
